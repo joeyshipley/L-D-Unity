@@ -15,6 +15,5 @@ In no specific order yet.
 
 ### Artifacts
 In no specific order, as tutorials are being done apply the learnings to the correct game.
-- [ ] Game Tooling: Eve Online map viewer/route planner with danger warnings. (Will require a custom API backend)
-- [ ] Multiplayer Tabletop RPG dice roller
 - [ ] Singleplayer sci-fi horror/survival/beat-em-up style game. 2.5D (3D game assets, fixed side-scroller camera in perspective mode)
+- [ ] Multiplayer Tabletop RPG dice roller
