@@ -14,7 +14,7 @@ NOTE: not recommended to do all 3. Large time sink with large overlap between th
 - Explore: Fishnet Networking (TODO: collect resources)
 
 ##### Programming Practices
-- SOLID - Version 1: https://www.youtube.com/watch?v=QDldZWvNK_E
-- SOLID - Version 2: https://www.youtube.com/watch?v=Fs8jy7DHDyc
+- SOLID - Part 1: https://www.youtube.com/watch?v=QDldZWvNK_E
+- SOLID - Part 2: https://www.youtube.com/watch?v=Fs8jy7DHDyc
 - Course: [Coding Practices](https://www.gamedev.tv/p/programming-design-patterns-for-unity)
 - Book - Game Programming Patters: https://gameprogrammingpatterns.com/
