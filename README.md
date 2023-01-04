@@ -2,7 +2,7 @@
 > Goal: shore up my random unity spluenking/learning into something more tangible.
 
 ##### Game.courses
-NOTE: not recommended to do all 3. Large time sink with large overlap between them. Suggest doing First OR Second and then as much of Third as you see fit.
+NOTE: I would not recommended doing all 3 unless you have a lot of time to dedicate to courses. Each individually are large time sinks and have plenty of overlap between them. My suggestions is to do either Programmer OR Mastery course depending on if you want it purely 2D or 2D/3D mix. Then consider the Architecture course if you want to push further in a variety of game features.
 - Course 1: [Programmer Course](https://game.courses/programmer/) (2D focused)
 - Course 2: [Mastery Course](https://game.courses/mastery-course/) (2D/3D mix)
 - Course 3: [Architecture Course](https://game.courses/game-architecture/) (More complicated feature set with some architecture/practices mixed in).
