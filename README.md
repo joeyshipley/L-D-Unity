@@ -3,9 +3,9 @@
 
 ##### Game.courses
 NOTE: not recommended to do all 3. Large time sink with large overlap between them. Suggest doing First OR Second and then as much of Third as you see fit.
-- Course: [Programmer Course](https://game.courses/programmer/)
-- Course: [Mastery Course](https://game.courses/mastery-course/)
-- Course: [Architecture Course](https://game.courses/game-architecture/)
+- Course 1: [Programmer Course](https://game.courses/programmer/)
+- Course 2: [Mastery Course](https://game.courses/mastery-course/)
+- Course 3: [Architecture Course](https://game.courses/game-architecture/)
 
 ##### Infallible Code Course
 - Intro to Maintainability Course: https://www.udemy.com/course/unity-for-software-developers/
