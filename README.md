@@ -15,7 +15,7 @@ NOTE: not recommended to do all 3. Large time sink with large overlap between th
 - Course: [Math](https://www.gamedev.tv/p/math-for-games)
 - Explore: Fishnet Networking (TODO: collect resources)
 
-##### Programming Practices (Explore/Review These)
+##### Programming Practices (Explore/Review these)
 - SOLID - Part 1: https://www.youtube.com/watch?v=QDldZWvNK_E
 - SOLID - Part 2: https://www.youtube.com/watch?v=Fs8jy7DHDyc
 - Interfaces: https://www.youtube.com/watch?v=2LA3BLqOw9g&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=29
@@ -26,9 +26,9 @@ NOTE: not recommended to do all 3. Large time sink with large overlap between th
 - Architecture Concepts: https://www.youtube.com/watch?v=tE1qH8OxO2Y&list=RDLVFs8jy7DHDyc&index=7
 - Architecture Concepts: https://www.youtube.com/watch?v=pRjTM3pzqDw&list=RDLVFs8jy7DHDyc&index=11
 
-##### Testing (Explore/Review These)
+##### Testing (Explore/Review these)
 - Unit Test Setup: https://www.youtube.com/watch?v=PDYB32qAsLU&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=23
 - TDD: https://www.youtube.com/playlist?list=PLKERDLXpXl_jJQiQOHDLimnulasAK3T5b
 
-##### Interesting Concepts (Explore/Review These)
+##### Interesting Concepts (Explore/Review these)
 - Dot Product Raycasts: https://www.youtube.com/watch?v=cxJnvEpwQHc&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=38
