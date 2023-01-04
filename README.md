@@ -1,5 +1,5 @@
-## L&D Time: Unity
-> Shore up my random unity spluenking/learning into something more tangible.
+## Unity Learning Path
+> Goal: shore up my random unity spluenking/learning into something more tangible.
 
 ##### Game.courses
 NOTE: not recommended to do all 3. Large time sink with large overlap between them. Suggest doing First OR Second and then as much of Third as you see fit.
