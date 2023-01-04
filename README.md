@@ -11,8 +11,8 @@ NOTE: not recommended to do all 3. Large time sink with large overlap between th
 - Intro to Maintainability Course: https://www.udemy.com/course/unity-for-software-developers/
 
 ##### Follow Up Courses
-- Course: [UI](https://www.gamedev.tv/p/unity-ui-toolkit)
 - Course: [Mobile](https://www.gamedev.tv/p/unity-mobile)
+- Course: [Custom Unity Editor Tooling](https://www.gamedev.tv/p/unity-ui-toolkit)
 - Course: [Math](https://www.gamedev.tv/p/math-for-games)
 - Explore: Fishnet Networking (TODO: collect resources)
 
