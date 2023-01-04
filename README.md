@@ -30,3 +30,6 @@ NOTE: not recommended to do all 3. Large time sink with large overlap between th
 ##### Testing
 - Unit Test Setup: https://www.youtube.com/watch?v=PDYB32qAsLU&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=23
 - TDD: https://www.youtube.com/playlist?list=PLKERDLXpXl_jJQiQOHDLimnulasAK3T5b
+
+##### Interesting Concepts
+- Dot Product Raycasts: https://www.youtube.com/watch?v=cxJnvEpwQHc&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=38
