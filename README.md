@@ -16,7 +16,7 @@ NOTE: not recommended to do all 3. Large time sink with large overlap between th
 - Course: [Math](https://www.gamedev.tv/p/math-for-games)
 - Explore: Fishnet Networking (TODO: collect resources)
 
-##### Programming Practices
+##### Programming Practices (Explore These)
 - SOLID - Part 1: https://www.youtube.com/watch?v=QDldZWvNK_E
 - SOLID - Part 2: https://www.youtube.com/watch?v=Fs8jy7DHDyc
 - Interfaces: https://www.youtube.com/watch?v=2LA3BLqOw9g&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=29
@@ -27,9 +27,9 @@ NOTE: not recommended to do all 3. Large time sink with large overlap between th
 - Course: [Coding Practices](https://www.gamedev.tv/p/programming-design-patterns-for-unity)
 - Book - Game Programming Patters: https://gameprogrammingpatterns.com/
 
-##### Testing
+##### Testing (Explore These)
 - Unit Test Setup: https://www.youtube.com/watch?v=PDYB32qAsLU&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=23
 - TDD: https://www.youtube.com/playlist?list=PLKERDLXpXl_jJQiQOHDLimnulasAK3T5b
 
-##### Interesting Concepts
+##### Interesting Concepts (Explore These)
 - Dot Product Raycasts: https://www.youtube.com/watch?v=cxJnvEpwQHc&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=38
