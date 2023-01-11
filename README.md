@@ -19,7 +19,7 @@ NOTE: I would not recommended doing all 3 unless you have a lot of time to dedic
 - SOLID - Part 1: https://www.youtube.com/watch?v=QDldZWvNK_E
 - SOLID - Part 2: https://www.youtube.com/watch?v=Fs8jy7DHDyc
 - Interfaces: https://www.youtube.com/watch?v=2LA3BLqOw9g&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=29
-- Book - Game Programming Patters: https://gameprogrammingpatterns.com/
+- Book - Game Programming Patterns: https://gameprogrammingpatterns.com/
 - Course: [Coding Practices](https://www.gamedev.tv/p/programming-design-patterns-for-unity)
 - Repository Pattern: https://www.youtube.com/watch?v=5D4qHl3SeoA&list=PLKERDLXpXl_jmiWBfkcM4mSCa9MvdGpf9&index=6
 - Architecture Mix: https://www.youtube.com/watch?v=Fs8jy7DHDyc&list=RDLVFs8jy7DHDyc&start_radio=1&rv=Fs8jy7DHDyc&t=666
